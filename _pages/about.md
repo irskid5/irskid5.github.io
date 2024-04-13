@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Vele. You've hit my personal website where I talk about my passions and showcase some of my achievements in life. 
 
-I am a machine learning engineer focusing on application. My passion is to apply machine learning to real-world problems. I also believe in privacy and security, which is why I've chosen to currently specialize in `privacy-preserving machine learning` using `fully homomorphic encryption` (FHE).
+I am a machine learning engineer focusing on application. My passion is to apply machine learning to real-world problems and advance the fundamentals of machine learning to break new barriers. I also believe in privacy and security, which is why I've chosen to currently specialize in `privacy-preserving machine learning` using `fully homomorphic encryption` (FHE).
 
 I recently completed my MASc from the University of Toronto (Nov. 2023) and have been working at [Lorica Cybersecurity](https://www.loricacyber.com/) as a software engineer on the machine learning team since 2020.
 
